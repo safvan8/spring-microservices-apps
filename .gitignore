@@ -11,15 +11,9 @@
 
 # Ignore build directories and files
 target/
-bin/
 build/
 .gradle/
 .idea/
-.mvn/
-
-
-# Ignore JAR files
-*.jar
 
 # Ignore hidden files and directories
 .*
