@@ -1,2 +1,2 @@
 # spring-microservices-apps
-Learning Springboot Microservices Developement 
+ Springboot Microservices Developement  demo apps
